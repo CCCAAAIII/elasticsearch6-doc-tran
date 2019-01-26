@@ -4,7 +4,7 @@ elasticsearch 是一个分布式的实时搜索引擎，可以用作全文检索
 
 curl 是利用url语法在命令行下工作的文件传输工具，支持文件的上传和下载(不是必须要安装的)
 
-curl 的安装  
+- curl 的安装  
 
 * 下载地址 https://curl.haxx.se/windows/
 * 进入指定目录解压，然后设置环境变量，配置`CURL_HOME` 解压的目录，添加path路径`%CURL_HOMW%`
@@ -28,6 +28,6 @@ curl 的安装
         5. 用head访问elasticsearch浏览器访问 http://localhost:9100
     
 
-
+!![](/assets/head.png)
 
 
