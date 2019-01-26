@@ -20,7 +20,12 @@ curl 的安装
         1. 下载插件百度搜索会出现连接的
         2. 解压到一个目录
         3. 进入目录使用`npm install ` 安装，时间会比较久，等一会应该就好了
-        4. 
+        4. 修改el的配置文件elasticsearch.yml,
+         ``` 
+         http.cors.enabled: true
+         http.cors.allow-origin: "*" 
+         ```  
+        5. 用head访问elasticsearch浏览器访问 http://localhost:9100
     
 
 
