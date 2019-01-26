@@ -1,11 +1,5 @@
 # ES的安装
 
-
-
-
-
-# 安装步骤
-
 1. 进入官网 [https://www.elastic.co/downloads/elasticsearch\#ga-release](https://www.elastic.co/downloads/elasticsearch#ga-release)
 2. 下载合适的安装包
 3. 指定文件夹解压
