@@ -1,4 +1,4 @@
 # Elasticsearch 搜索引擎学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录这个搜索引擎的学习过程
 
