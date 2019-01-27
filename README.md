@@ -1,1 +1,1 @@
-# elasticsearch6-文档翻译
+# elasticsearch6-文档学习记录及翻译
