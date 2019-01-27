@@ -26,8 +26,12 @@ curl 是利用url语法在命令行下工作的文件传输工具，支持文件
          http.cors.allow-origin: "*" 
          ```  
         5. 用head访问elasticsearch浏览器访问 http://localhost:9100
-    
 
-!![](/assets/head.png)
+!![](/assets/head.png)  
+
+
+- ik分词器的安装
+`
+elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v6.5.2/elasticsearch-analysis-ik-6.5.2.zip`
 
 
