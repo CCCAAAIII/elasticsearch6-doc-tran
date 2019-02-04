@@ -4,10 +4,11 @@
 
 检查集群健康，我们将要使用`_cat API`,你可以运行这个命令在kinbana控制台上 
 `GET / _cat / health？v`
-
-
-```
+``` 
 shards pri relo init unassign pending_tasks max_task_wait_time active_shards_percent
-1549278163 11:02:43  my-application green           1         1      1   1    0    0        0             0                  -                100.0%
+1549278163 11:02:43  my-application green           1         1      1   1    0    0        0             0                  -                100.0% 
 ```
+可以看到集群的状态是绿色，
+集群健康的状态有三种，绿色红色黄色
+- 
 
